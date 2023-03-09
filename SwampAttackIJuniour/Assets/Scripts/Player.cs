@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(Animator))]
 public class Player : MonoBehaviour
@@ -8,6 +9,8 @@ public class Player : MonoBehaviour
     [SerializeField] private int _health;
     [SerializeField] private List<Weapon> _weapons;
     [SerializeField] private Transform _shootPoint;
+
+    public event UnityAction<int, int> HealthChanged;
 
     public int Money => _money;
 
@@ -39,9 +42,12 @@ public class Player : MonoBehaviour
     public void ApplyDamage(int damage)
     {
         _currentHealth -= damage;
+        HealthChanged?.Invoke(_currentHealth, _health);
 
         if(_currentHealth < 0)
+        {
             Destroy(gameObject);
+        }
     }
 
     public void AddMoney(int money)
