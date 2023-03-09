@@ -10,6 +10,9 @@ public class Spawner : MonoBehaviour
 
     public event UnityAction AllEnemySpawned;
     public event UnityAction<int,int> EnemyCountChanged;
+    public event UnityAction WaveNumberChanged;
+
+    public int WaveCount => _currentWaveNumber;
 
     private Wave _currentWave;
     private int _currentWaveNumber;
@@ -66,6 +69,7 @@ public class Spawner : MonoBehaviour
     public void NextWave()
     {
         SetWave(++_currentWaveNumber);
+        WaveNumberChanged?.Invoke();
         _spawned = 0;
     }
 }

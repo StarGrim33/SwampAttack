@@ -19,5 +19,8 @@ public class RiffleBullet : MonoBehaviour
             enemy.TakeDamage(_damage);
             Destroy(gameObject);
         }
+
+        if (collision.TryGetComponent<Border>(out Border border))
+            Destroy(gameObject);
     }
 }
