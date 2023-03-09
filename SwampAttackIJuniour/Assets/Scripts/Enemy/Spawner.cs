@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Spawner : MonoBehaviour
 {
@@ -7,14 +8,16 @@ public class Spawner : MonoBehaviour
     [SerializeField] private Transform _spawnPoint;
     [SerializeField] private Player _player;
 
+    public event UnityAction AllEnemySpawned;
+
     private Wave _currentWave;
-    private int _currentWavNumber;
+    private int _currentWaveNumber;
     private float _timeAfterLastSpawn;
     private int _spawned;
 
     private void Start()
     {
-        SetWave(_currentWavNumber);
+        SetWave(_currentWaveNumber);
     }
 
     private void Update()
@@ -32,7 +35,12 @@ public class Spawner : MonoBehaviour
         }
 
         if (_currentWave.Count <= _spawned)
+        {
+            if (_waves.Count > _currentWaveNumber + 1)
+                AllEnemySpawned?.Invoke();
+
             _currentWave = null;
+        }    
     }
 
     private void SetWave(int index)
@@ -50,6 +58,12 @@ public class Spawner : MonoBehaviour
     {
         enemy.Died -= OnEnemyDied;
         _player.AddMoney(enemy.Reward);
+    }
+
+    public void NextWave()
+    {
+        SetWave(++_currentWaveNumber);
+        _spawned = 0;
     }
 }
 
