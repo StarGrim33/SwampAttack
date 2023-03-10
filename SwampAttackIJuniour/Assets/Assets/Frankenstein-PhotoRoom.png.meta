@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 55779dde7357a734b999fa0454c1eb01
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 578
+        width: 60
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb1de4f65fe1d4281ac5d0d37f9f72
+      internalID: 67278405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 578
+        width: 59
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02315e5c0f766724b8b190dc4bf13fc6
+      internalID: -1106306069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 578
+        width: 61
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317a961538c6aa47baf5a48ac2e6f58
+      internalID: -1299798292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 578
+        width: 63
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755be0eadc429614e87bb843465d55bf
+      internalID: -1654900860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 578
+        width: 61
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb6ba72b9e7994b9cea992da404f42
+      internalID: -997760041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 578
+        width: 60
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123bfa03001f65442aacdfa1d7b0e79a
+      internalID: 193745042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 19
+        width: 405
+        height: 661
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b61a126845b2e4eaf91a1d7f6c6fd7
+      internalID: -682616641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 465
+        width: 62
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268a3069ef682540b61bd78da81df70
+      internalID: -2113134100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 465
+        width: 53
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74190f817def13649a3ac933ff6fde50
+      internalID: -1506375922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 465
+        width: 55
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806dacebac3da2844986c7075365915d
+      internalID: -1475599389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 465
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d189e8aab907d647910bbad854b94fd
+      internalID: 2001944460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 465
+        width: 65
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eefcde7b7bffc24985655cd03e588dc
+      internalID: 1539396067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 465
+        width: 65
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6343b6415b17aa40990889931f511cb
+      internalID: -202532068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 465
+        width: 79
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da25666ee2a15641a26703f2dcc0928
+      internalID: -1214773431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 362
+        width: 84
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35ecc26b235ea42939d698e2b1a632
+      internalID: 1069306419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 362
+        width: 86
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457645df3693d394c95c2b5c984b2d66
+      internalID: 716022706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 362
+        width: 94
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aa0a1cecd53b4c97dbcf7ce64772a
+      internalID: -1597552193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 361
+        width: 101
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e1e58f98efc5345891a1386aa64c57
+      internalID: -1634131707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 362
+        width: 99
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88f21631f776043ac0311b49ad2e66
+      internalID: -1446520490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 257
+        width: 35
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efefb3f64ac0b46b6253dc98921f33
+      internalID: -300837944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 257
+        width: 53
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84edbc97681949242bdc60b89b99ec7e
+      internalID: -1009998291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 257
+        width: 73
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa08a45e11595854f8bad40f1e787d6d
+      internalID: 1882785760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 257
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19164c3788b86242b0aea2683bb4420
+      internalID: -1815839622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 63
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebc4c4c39990e47a817314ec468689
+      internalID: 1500873532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 257
+        width: 58
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090922aa8b966246ad2a4d577fd777b
+      internalID: 676333405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 257
+        width: 59
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ad81245a97ac44b5b54d9f226427b
+      internalID: -959806860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 257
+        width: 59
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3cba179c603d24f8ec40119d20098d
+      internalID: -334186954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6ffdf026371b4693b33bbec8f6fa5
+      internalID: 1187981115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 57
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c98da956fba447ab19de3ee1c157c
+      internalID: -279847754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 138
+        width: 55
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b2e5d134541b458618aa38ade8561
+      internalID: 1911210243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 138
+        width: 58
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71e08d154fbde74ebb80e80a3603053
+      internalID: -865523189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 137
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d80664570e334b910305e6ee42224
+      internalID: 168364931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 137
+        width: 57
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa463d229346c459863ad79d89866d
+      internalID: -818281418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 137
+        width: 58
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3f79e7155d4f43b157db648e07a7c
+      internalID: 397163749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 138
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83884fe0f188e549bbd71dae245aa18
+      internalID: -727823313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 25
+        width: 61
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3987aed21283ff4292b43c67959366b
+      internalID: 151432851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 25
+        width: 63
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3268e9e9015eee48a4420efd66f1896
+      internalID: -1372452424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 25
+        width: 61
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0688e5dd3647d940b30c920cb94996f
+      internalID: 7866693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 25
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4acacef88c2c94a82506bc99695f25
+      internalID: 483406465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frankenstein-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 25
+        width: 58
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb7b8a0739a73e40b8bb34973a80eef
+      internalID: 738576628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -621, y: 238.5}
+      - {x: -621, y: 328.5}
+      - {x: -558, y: 328.5}
+      - {x: -558, y: 238.5}
+    - - {x: -503, y: 237.5}
+      - {x: -503, y: 332.5}
+      - {x: -449, y: 332.5}
+      - {x: -449, y: 237.5}
+    - - {x: -406, y: 238.5}
+      - {x: -406, y: 329.5}
+      - {x: -341, y: 329.5}
+      - {x: -341, y: 238.5}
+    - - {x: -296, y: 238.5}
+      - {x: -296, y: 328.5}
+      - {x: -235, y: 328.5}
+      - {x: -235, y: 238.5}
+    - - {x: -189, y: 236.5}
+      - {x: -189, y: 328.5}
+      - {x: -123, y: 328.5}
+      - {x: -123, y: 236.5}
+    - - {x: -88, y: 236.5}
+      - {x: -88, y: 329.5}
+      - {x: -23, y: 329.5}
+      - {x: -23, y: 236.5}
+    - - {x: -626, y: 126.5}
+      - {x: -626, y: 213.5}
+      - {x: -546, y: 213.5}
+      - {x: -546, y: 126.5}
+    - - {x: -515, y: 124.5}
+      - {x: -515, y: 217.5}
+      - {x: -447, y: 217.5}
+      - {x: -447, y: 124.5}
+    - - {x: -408, y: 123.5}
+      - {x: -408, y: 213.5}
+      - {x: -336, y: 213.5}
+      - {x: -336, y: 123.5}
+    - - {x: -291, y: 123.5}
+      - {x: -291, y: 217.5}
+      - {x: -221, y: 217.5}
+      - {x: -221, y: 123.5}
+    - - {x: -189, y: 122.5}
+      - {x: -189, y: 218.5}
+      - {x: -124, y: 218.5}
+      - {x: -124, y: 122.5}
+    - - {x: -86, y: 125.5}
+      - {x: -86, y: 215.5}
+      - {x: -21, y: 215.5}
+      - {x: -21, y: 125.5}
+    - - {x: 2, y: 123.5}
+      - {x: 2, y: 216.5}
+      - {x: 86, y: 216.5}
+      - {x: 86, y: 123.5}
+    - - {x: -627, y: 19.5}
+      - {x: -627, y: 107.5}
+      - {x: -534, y: 107.5}
+      - {x: -534, y: 19.5}
+    - - {x: -508, y: 20.5}
+      - {x: -508, y: 102.5}
+      - {x: -418, y: 102.5}
+      - {x: -418, y: 20.5}
+    - - {x: -408, y: 18.5}
+      - {x: -408, y: 102.5}
+      - {x: -318, y: 102.5}
+      - {x: -318, y: 18.5}
+    - - {x: -309, y: 16.5}
+      - {x: -309, y: 99.5}
+      - {x: -212, y: 99.5}
+      - {x: -212, y: 16.5}
+    - - {x: -203, y: 16.5}
+      - {x: -208, y: 47.5}
+      - {x: -203, y: 90.5}
+      - {x: -110, y: 90.5}
+      - {x: -110, y: 16.5}
+    - - {x: -623, y: -202.5}
+      - {x: -623, y: -110.5}
+      - {x: -555, y: -110.5}
+      - {x: -555, y: -202.5}
+    - - {x: -512, y: -200.5}
+      - {x: -512, y: -108.5}
+      - {x: -440, y: -108.5}
+      - {x: -440, y: -200.5}
+    - - {x: -407, y: -202.5}
+      - {x: -407, y: -110.5}
+      - {x: -340, y: -110.5}
+      - {x: -340, y: -202.5}
+    - - {x: -304, y: -202.5}
+      - {x: -304, y: -111.5}
+      - {x: -232, y: -111.5}
+      - {x: -232, y: -202.5}
+    - - {x: -196, y: -203.5}
+      - {x: -196, y: -113.5}
+      - {x: -120, y: -113.5}
+      - {x: -120, y: -203.5}
+    - - {x: -99, y: -202.5}
+      - {x: -99, y: -113.5}
+      - {x: -27, y: -113.5}
+      - {x: -27, y: -202.5}
+    - - {x: -1, y: -203.5}
+      - {x: -1, y: -110.5}
+      - {x: 72, y: -110.5}
+      - {x: 72, y: -203.5}
+    - - {x: 115, y: -203.5}
+      - {x: 115, y: -109.5}
+      - {x: 181, y: -109.5}
+      - {x: 181, y: -203.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Frankenstein-PhotoRoom_28: -279847754
+      Frankenstein-PhotoRoom_6: -682616641
+      Frankenstein-PhotoRoom_10: 2001944460
+      Frankenstein-PhotoRoom_20: -1009998291
+      Frankenstein-PhotoRoom_32: -818281418
+      Frankenstein-PhotoRoom_34: -727823313
+      Frankenstein-PhotoRoom_33: 397163749
+      Frankenstein-PhotoRoom_4: -997760041
+      Frankenstein-PhotoRoom_13: -1214773431
+      Frankenstein-PhotoRoom_38: 483406465
+      Frankenstein-PhotoRoom_15: 716022706
+      Frankenstein-PhotoRoom_5: 193745042
+      Frankenstein-PhotoRoom_31: 168364931
+      Frankenstein-PhotoRoom_21: 1882785760
+      Frankenstein-PhotoRoom_11: 1539396067
+      Frankenstein-PhotoRoom_35: 151432851
+      Frankenstein-PhotoRoom_27: 1187981115
+      Frankenstein-PhotoRoom_30: -865523189
+      Frankenstein-PhotoRoom_2: -1299798292
+      Frankenstein-PhotoRoom_9: -1475599389
+      Frankenstein-PhotoRoom_17: -1634131707
+      Frankenstein-PhotoRoom_8: -1506375922
+      Frankenstein-PhotoRoom_12: -202532068
+      Frankenstein-PhotoRoom_23: 1500873532
+      Frankenstein-PhotoRoom_0: 67278405
+      Frankenstein-PhotoRoom_37: 7866693
+      Frankenstein-PhotoRoom_3: -1654900860
+      Frankenstein-PhotoRoom_7: -2113134100
+      Frankenstein-PhotoRoom_24: 676333405
+      Frankenstein-PhotoRoom_14: 1069306419
+      Frankenstein-PhotoRoom_26: -334186954
+      Frankenstein-PhotoRoom_18: -1446520490
+      Frankenstein-PhotoRoom_1: -1106306069
+      Frankenstein-PhotoRoom_22: -1815839622
+      Frankenstein-PhotoRoom_29: 1911210243
+      Frankenstein-PhotoRoom_25: -959806860
+      Frankenstein-PhotoRoom_16: -1597552193
+      Frankenstein-PhotoRoom_19: -300837944
+      Frankenstein-PhotoRoom_39: 738576628
+      Frankenstein-PhotoRoom_36: -1372452424
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

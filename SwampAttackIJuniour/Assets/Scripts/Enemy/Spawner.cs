@@ -63,7 +63,6 @@ public class Spawner : MonoBehaviour
     private void OnEnemyDied(Enemy enemy)
     {
         enemy.Died -= OnEnemyDied;
-        _player.AddMoney(enemy.Reward);
     }
 
     public void NextWave()

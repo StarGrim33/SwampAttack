@@ -6,6 +6,9 @@ public class UziBullet : MonoBehaviour
 {
     [SerializeField] private int _damage;
     [SerializeField] private float _speed;
+    [SerializeField] private int _criticalDamage = 30;
+
+    private int _chanceCriticalDamage = 20;
 
     private void Update()
     {
@@ -16,11 +19,27 @@ public class UziBullet : MonoBehaviour
     {
         if (collision.TryGetComponent<Enemy>(out Enemy enemy))
         {
+            if (CriticalDamage()) 
+            {
+                enemy.TakeDamage(_criticalDamage);
+                Debug.Log("Критический урон!");
+            }
+
             enemy.TakeDamage(_damage);
             Destroy(gameObject);
         }
 
         if (collision.TryGetComponent<Border>(out Border border))
             Destroy(gameObject);
+    }
+
+    private bool CriticalDamage()
+    {
+        int minNumber = 1;
+        int maxNumber = 100;
+
+        int random = Random.Range(minNumber, maxNumber);
+
+        return random < _chanceCriticalDamage;
     }
 }
